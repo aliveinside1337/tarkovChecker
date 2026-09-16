@@ -55,9 +55,9 @@ BLOCKED_PHRASES = [
 ]
 
 ERROR_PHRASES = [
-    "attempts left",
-    "EFRUF",
-    "206",
+    "invalid password",
+    "wrong password",
+    "неверный пароль",
     "account not found",
     "аккаунт не найден",
     "invalid credentials",
